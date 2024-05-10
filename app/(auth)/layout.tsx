@@ -3,7 +3,9 @@ export default function RootLayout({
 }: Readonly<{
     children: React.ReactNode;
 }>) {
-    <main>
-        {children}
-    </main>
-}
+    return (
+        <main>
+            {children}
+        </main>
+    )
+};
