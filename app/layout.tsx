@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "FortIron",
-  description: "FortIron is a banking platform for everyone out there.",
+  title: "Fort Iron",
+  description: "Fort Iron is a banking platform for everyone out there.",
   icons:{
     icon: '/icons/logo.svg'
   }
